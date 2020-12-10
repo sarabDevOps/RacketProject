@@ -26,7 +26,7 @@
 
 ## Reverse Polish Notation
 
-![](https://octodex.github.com/images/yaktocat.png)
+![](https://github.com/sarabDevOps/RacketProject/blob/main/rpn.JPG)
 
  Reverse Polish notation (RPN) is a method for representing expressions in which the operator symbol is placed after the arguments being operated on. Polish notation, in which the operator comes before the operands, was invented in the 1920s by the Polish mathematician Jan Lucasiewicz. In the late 1950s, Australian philosopher and computer scientist Charles L. Hamblin suggested placing the operator after the operands and hence created reverse polish notation.
 
@@ -97,7 +97,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 
 
-## For extra information about the Project please refer to the  Wiki.
 
 
 
