@@ -12,6 +12,12 @@
 
 #### Here is small example of it in action .  In this instance, one number was selected from the large set, and the rest from the small set.
 
+Contestants must use the four basic operations, With the six random numbers to calculate the target number. They don’t have to use all six of the numbers, however each of the six random numbers can only be used once, If the same number appears twice in the list of six then it may be used twice. At each intermediate step of the calculation, negative numbers and fractions are not allowed. For example - we can’t subtract a 7 from a 2, as that would give -5, and likewise you can’t divide 2 by 7 as that gives a fraction.
+
+```
+     [ +  -   *   /  ]
+```
+
 ```
   { 50 , 8 , 3 , 7 , 2 , 10 }
   
@@ -47,6 +53,18 @@ A standard infix arithmetic expression can be converted to an RPN expression usi
 RPN is used in Hewlett Packard and some Texas Instruments calculators and internally in some computer languages. 
 
 for more info [Click Me ](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
+
+## Racket Language
+
+Racket is a general purpose,multi-paradigm programming language in the Lisp-Scheme family. One of its design goals is to serve as a platform for language creation, design, and implementation. The language is used in a variety of contexts such as scripting, general-purpose programming, Computer Science.
+
+Functional programming is a pervasive technique in Racket.
+
+Functional programming means designing our program around self-contained functions that don’t rely on state or mutation.
+
+In functional programming, everything the function needs to do its job is passed as an input argument, and the function provides its result as a return value, which replaces the previous value.
+
+A benefit of functional programming is that it makes functions easier to test. It also promotes com­pos­abil­ity, which is the idea of combining simple, self-contained functions to produce more elaborate behavior.
 
 ## Getting Started
 
