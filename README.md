@@ -111,7 +111,7 @@ Version 1
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sarabDevOps/Racket-Project/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sarabDevOps/RacketProject/blob/main/LICENSE) file for details
 
 
 
